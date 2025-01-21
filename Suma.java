@@ -32,17 +32,22 @@ public class Suma {
     }
 
     /**
+     * Suma tres números reales y devuelve el resultado.
      *
-     * @param num1
-     * @param num2
-     * @param num3
-     * @return
-     */
+     * @param num1 el primer número real
+     * @param num2 el segundo número real
+     * @param num3 el tercer número real
+     **/
     public double sumaTresReales(double num1, double num2, double num3) {
         return num1 + num2 + num3;
     }
 
-    public void sumaAcum(double num1) {
-        valorAcumulado += num1;
+    /**
+     * Suma un número real al valor acumulado en la clase.
+     *
+     * @param num1 el número a sumar al valor acumulado
+     */
+    public double sumaAcum(double num1) {
+        return valorAcumulado += num1;
     }
 }

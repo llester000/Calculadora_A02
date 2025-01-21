@@ -50,7 +50,7 @@ public class Producto {
      * @return el resultado del producto acumulado del número base elevado al exponente
      */
 
-    public double productoAcum(double base, double exponente) {
+    public double potencia(double base, double exponente) {
         double resultado = 1;
         for (int i = 0; i < exponente; i++) {
             resultado *= base;

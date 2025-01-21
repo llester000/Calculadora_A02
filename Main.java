@@ -3,6 +3,7 @@ public class Main {
 
         Suma suma = new Suma();
         Resta resta = new Resta();
+        Producto producto = new Producto();
         Cociente cociente = new Cociente();
 
         System.out.println("Suma de dos reales: " + suma.sumaDosReales(4.6, 2.5));
@@ -21,6 +22,10 @@ public class Main {
         System.out.println("Resta de numero acumulado:" + resta.restaAcum(2.6));
         System.out.println("Resta de numero acumulado:" + resta.restaAcum(2.6));
         System.out.println("---------------------------------------");
+        System.out.println("Producto de dos reales: " + producto.productoDosReales(1.3,4.5));
+        System.out.println("Producto de dos enteros: " + producto.productoDosEnteros(2,86));
+        System.out.println("Producto de tres reales: " + producto.productoTresReales(1.3,4.5,1.5));
+        System.out.println("Potencia: " + producto.potencia(2,3));
 
         System.out.println("---------------------------------------");
         System.out.println("Cociente de dos reales: " + cociente.cocienteDosReales(4.0, 2.0));

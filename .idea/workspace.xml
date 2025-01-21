@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64b1e050-d81a-4280-afe5-ab66e2f8ec87" name="Changes" comment="Añadir JDOC y comentarios a la clase de Suma">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64b1e050-d81a-4280-afe5-ab66e2f8ec87" name="Changes" comment="Commit para guardar la creacion de la clase pero aun vacia." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737068965862</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit para guardar la creacion de la clase pero aun vacia.">
+      <option name="closed" value="true" />
+      <created>1737477543259</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737477543259</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +189,7 @@
     <MESSAGE value="Creacion de los 2 ultimos metodos de suma de 3 numeros" />
     <MESSAGE value="Reparacion de la clase ya que no habia leido el ultimo metodo" />
     <MESSAGE value="Añadir JDOC y comentarios a la clase de Suma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Añadir JDOC y comentarios a la clase de Suma" />
+    <MESSAGE value="Commit para guardar la creacion de la clase pero aun vacia." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit para guardar la creacion de la clase pero aun vacia." />
   </component>
 </project>

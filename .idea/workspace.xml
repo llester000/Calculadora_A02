@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64b1e050-d81a-4280-afe5-ab66e2f8ec87" name="Changes" comment="Commit para guardar la creacion de la clase pero aun vacia.">
+    <list default="true" id="64b1e050-d81a-4280-afe5-ab66e2f8ec87" name="Changes" comment="Commit para guardar la creacion del fichero Main y de las primeras pruebas de Guillermo Olivares Bernat">
       <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -125,16 +125,6 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-23" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -203,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737477543259</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit para guardar la creacion del fichero Main y de las primeras pruebas de Guillermo Olivares Bernat">
+      <option name="closed" value="true" />
+      <created>1737481866692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737481866692</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,6 +214,7 @@
     <MESSAGE value="Reparacion de la clase ya que no habia leido el ultimo metodo" />
     <MESSAGE value="Añadir JDOC y comentarios a la clase de Suma" />
     <MESSAGE value="Commit para guardar la creacion de la clase pero aun vacia." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit para guardar la creacion de la clase pero aun vacia." />
+    <MESSAGE value="Commit para guardar la creacion del fichero Main y de las primeras pruebas de Guillermo Olivares Bernat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit para guardar la creacion del fichero Main y de las primeras pruebas de Guillermo Olivares Bernat" />
   </component>
 </project>

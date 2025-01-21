@@ -8,7 +8,7 @@
 public class Resta {
 
     // Variable para el valor acumulado.
-    private double valorAcumulado = 0.0;
+    private double valorAcumulado = 10.0;
 
     /**
      * Resta dos números reales dados y devuelve el resultado.
@@ -52,8 +52,8 @@ public class Resta {
      *
      * @param num1 el número a restar del valor acumulado
      */
-    public void restaAcum(double num1) {
-         valorAcumulado -= num1;
+    public double restaAcum(double num1) {
+         return valorAcumulado -= num1;
     }
 
 }

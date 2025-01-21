@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64b1e050-d81a-4280-afe5-ab66e2f8ec87" name="Changes" comment="Commit para guardar la creacion de la clase pero aun vacia." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDONrURuM6IEvxQ&quot;,
+        &quot;number&quot;: 2
+      },
+      &quot;lastSeen&quot;: 1737474649855
+    },
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDONrURuM6IEgSx&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1737474696667
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/llester000/Calculadora_A02.git&quot;,
+    &quot;accountId&quot;: &quot;40fd8402-b7fc-4916-8a60-a989f3063297&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;llester000&quot;,
+    &quot;repository&quot;: &quot;Calculadora_A02&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2riu7Ra2Bn9dq385u0AwH2Tn530" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "rama-producto",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64b1e050-d81a-4280-afe5-ab66e2f8ec87" name="Changes" comment="" />
+      <created>1737054048849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737054048849</updated>
+      <workItem from="1737054050675" duration="7144000" />
+      <workItem from="1737473292888" duration="964000" />
+      <workItem from="1737474338232" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="Creacion de la clase suma por parte de Guillermo Olivares Bernat">
+      <option name="closed" value="true" />
+      <created>1737063287076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737063287076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creacion de los 2 primeros metodos de suma de 2 numeros">
+      <option name="closed" value="true" />
+      <created>1737063917893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737063917893</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creacion de los 2 ultimos metodos de suma de 3 numeros">
+      <option name="closed" value="true" />
+      <created>1737065782830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737065782830</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reparacion de la clase ya que no habia leido el ultimo metodo">
+      <option name="closed" value="true" />
+      <created>1737066115297</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737066115297</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Añadir JDOC y comentarios a la clase de Suma">
+      <option name="closed" value="true" />
+      <created>1737068965861</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737068965862</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit para guardar la creacion de la clase pero aun vacia.">
+      <option name="closed" value="true" />
+      <created>1737477543259</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737477543259</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creacion de la clase suma por parte de Guillermo Olivares Bernat" />
+    <MESSAGE value="Creacion de los 2 primeros metodos de suma de 2 numeros" />
+    <MESSAGE value="Creacion de los 2 ultimos metodos de suma de 3 numeros" />
+    <MESSAGE value="Reparacion de la clase ya que no habia leido el ultimo metodo" />
+    <MESSAGE value="Añadir JDOC y comentarios a la clase de Suma" />
+    <MESSAGE value="Commit para guardar la creacion de la clase pero aun vacia." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit para guardar la creacion de la clase pero aun vacia." />
+  </component>
+</project>
